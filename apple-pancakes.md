@@ -19,7 +19,8 @@
 1. add 1.5 tbsp of unsalted butter (or oil) to pan
 2. increase heat of pan to 7
 3. (when butter is melted and pan is hot -- if butter turns brown the pan is too hot and the butter is burnt. Let pan cool down, wipe butter out, start over with 3.1)): add batter into pan, cook for 1 minute
-4. after 1 minute, place pan in oven
+4. after 1 minute flip over
+5. after 1 minute, place pan in oven
 
 ## Baking in the oven
 1. bake for 15 minutes at 450 degrees (do step 5 in the mean time)
