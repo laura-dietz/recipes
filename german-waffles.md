@@ -4,7 +4,7 @@
  - 2 table spoons of sugar
  - optionally one pack of vanillin sugar
  - 3 eggs
- - 2 cups of flour (whole wheat)
+ - 1 cup of flour (whole wheat)
  - half a teaspoon of baking powder
  - half cup of milk and half cup of cream -- alternatively 1 cup of milk
 
